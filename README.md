@@ -207,10 +207,10 @@ assets/predict.png
 AI & Machine Learning Engineering Student
 
 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/ARHAM56
 
 LinkedIn:
-https://linkedin.com/in/YOUR_LINKEDIN
+https://www.linkedin.com/in/arham-aziz-aa48ba41b/
 
 ---
 
